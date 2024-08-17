@@ -3,21 +3,21 @@
 ############################
 
 author:
-  name: "Qubt"
+  name: "arodindev"
   image: author.jpeg
-  greeting: "A personal blog theme for Hugo :evergreen_tree:"
-  icon: ":wave:"
+  greeting: "Technical blog about mostly DevOps & MLOps stuff :robot:"
+  #icon: ":wave:"
 
 ############################
 ## Links
 ############################
 
 links:
-  - github: https://github.com/chrede88/qubt
-  - facebook: https://github.com/chrede88/qubt
+  - github: https://github.com/arodindev
+  # - facebook:
   # - x-twitter:
   # - mastodon:
-  # - linkedin: 
+  - linkedin: https://www.linkedin.com/in/dstoecklein
   # - instagram:
   # - reddit: 
   # - telegram: 
@@ -65,7 +65,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: "Qubt Theme"
-description: "Demo site build with Qubt & Hugo"
+title: "arodindev blog"
+description: "Technical blog about DevOps and MLOps"
 images:
   - thumbnail.jpeg

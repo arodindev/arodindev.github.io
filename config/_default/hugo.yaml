@@ -2,8 +2,8 @@
 ## CHANGE THESE
 ############################
 
-baseURL: 'https://chrede88.github.io/qubt'
-title: 'Qubt Theme'
+baseURL: 'https://arodindev.github.io/'
+title: 'arodindev blog'
 
 ############################
 ## MISC
@@ -12,5 +12,4 @@ title: 'Qubt Theme'
 enableEmoji: true
 disableKinds: ['taxonomy', 'term']
 languageCode: 'en-us'
-
 

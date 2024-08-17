@@ -5,7 +5,7 @@
   ],
   "dependencyDashboardTitle": "Renovate Dashboard 🤖",
   "commitMessagePrefix": "🤖",
-  "reviewers": ["chrede88"],
+  "reviewers": ["arodindev"],
   "timezone": "Europe/Zurich",
   "schedule": [
     "after 6pm and before 6am every weekday",
