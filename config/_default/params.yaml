@@ -4,7 +4,7 @@
 
 author:
   name: "arodindev"
-  image: author.jpeg
+  image: author.jpg
   greeting: "Technical blog about mostly DevOps & MLOps stuff :robot:"
   #icon: ":wave:"
 
@@ -68,4 +68,4 @@ links:
 title: "arodindev blog"
 description: "Technical blog about DevOps and MLOps"
 images:
-  - thumbnail.jpeg
+  - author.jpg

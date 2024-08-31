@@ -6,14 +6,14 @@
     <description>Recent content in Blog on arodindev blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
+      <title>ML Inference &amp; Model Servers</title>
       <link>http://localhost:1313/blog/post1/</link>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/post1/</guid>
-      <description>Lorem ipsum</description>
+      <description>This blog post explains the key role that inference/model servers play in serving and deploying machine learning models at scale. It dives into technical details and compares prominent tools.</description>
     </item>
   </channel>
 </rss>
